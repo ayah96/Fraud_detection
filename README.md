@@ -4,4 +4,16 @@ we present our approach to predict legitimate or fraud transactions on the IEEE-
 
 Dataset link: https://www.kaggle.com/c/ieee-fraud-detection/overview
 
+# Reference
+If you find our source code useful, please consider citing our work.
+
+@inproceedings{najadat2020credit,
+  title={Credit card fraud detection based on machine and deep learning},
+  author={Najadat, Hassan and Altiti, Ola and Aqouleh, Ayah Abu and Younes, Mutaz},
+  booktitle={2020 11th International Conference on Information and Communication Systems (ICICS)},
+  pages={204--208},
+  year={2020},
+  organization={IEEE}
+}
+
 
