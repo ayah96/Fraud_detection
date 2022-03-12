@@ -7,6 +7,8 @@ Dataset link: https://www.kaggle.com/c/ieee-fraud-detection/overview
 # Reference
 If you find our source code useful, please consider citing our work.
 
+```
+
 @inproceedings{najadat2020credit,
   title={Credit card fraud detection based on machine and deep learning},
   author={Najadat, Hassan and Altiti, Ola and Aqouleh, Ayah Abu and Younes, Mutaz},
@@ -15,5 +17,5 @@ If you find our source code useful, please consider citing our work.
   year={2020},
   organization={IEEE}
 }
-
+```
 
